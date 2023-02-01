@@ -54,9 +54,8 @@ ul {
   padding-left: 8px;
 }
 
-.left-side{
+.right-side{
   display: flex;
-  justify-content: center;
   align-items: center;
   gap: 16px;
 }
